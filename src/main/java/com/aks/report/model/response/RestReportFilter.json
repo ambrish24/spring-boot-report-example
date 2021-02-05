@@ -1,0 +1,20 @@
+{
+  "reportAttributes": [
+    {
+      "tableColumnWidth": 0,
+      "tableColumnName": "Operation",
+      "dateTimeFormat": null
+    },
+    {
+      "tableColumnWidth": 0,
+      "tableColumnName": "Sub Operation",
+      "dateTimeFormat": null
+    },
+    {
+      "tableColumnWidth": 0,
+      "tableColumnName": "Created Date",
+      "dateTimeFormat": null
+    }
+  ],
+  "reportName": "Audit log"
+}

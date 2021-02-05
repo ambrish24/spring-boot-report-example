@@ -1,0 +1,262 @@
+{
+  "results": [
+    {
+      "columnsList": [
+        {
+          "customProperties": {
+            "parameterMap": {
+              "style:background-color": "#00ffff"
+            },
+            "parameterNames": [
+              "style:background-color"
+            ]
+          },
+          "columnValue": "ReST API Called"
+        },
+        {
+          "columnValue": "Success"
+        },
+        {
+          "columnValue": "2021-02-02 15:29:41.627127+05"
+        },
+        {
+          "columnValue": "13"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "http://localhost:8080/blueplanet-core-showcase-rest/sqlgrid/sql-get-record-count"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "Computer"
+        },
+        {
+          "columnValue": "Browser"
+        },
+        {
+          "columnValue": "Chrome"
+        },
+        {
+          "columnValue": "88.0.4324.104"
+        },
+        {
+          "columnValue": "Windows"
+        },
+        {
+          "columnValue": "Windows 10"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "#00ffff"
+        }
+      ],
+      "customProperties": {}
+    },
+    {
+      "columnsList": [
+        {
+          "customProperties": {
+            "parameterMap": {
+              "style:background-color": "#00ffff"
+            },
+            "parameterNames": [
+              "style:background-color"
+            ]
+          },
+          "columnValue": "ReST API Called"
+        },
+        {
+          "columnValue": "Success"
+        },
+        {
+          "columnValue": "2021-02-02 15:29:41.610463+05"
+        },
+        {
+          "columnValue": "27"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "http://localhost:8080/blueplanet-core-showcase-rest/sqlgrid/sql-get-rows"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "Computer"
+        },
+        {
+          "columnValue": "Browser"
+        },
+        {
+          "columnValue": "Chrome"
+        },
+        {
+          "columnValue": "88.0.4324.104"
+        },
+        {
+          "columnValue": "Windows"
+        },
+        {
+          "columnValue": "Windows 10"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "#00ffff"
+        }
+      ],
+      "customProperties": {}
+    },
+    {
+      "columnsList": [
+        {
+          "customProperties": {
+            "parameterMap": {
+              "style:background-color": "#00ffff"
+            },
+            "parameterNames": [
+              "style:background-color"
+            ]
+          },
+          "columnValue": "ReST API Called"
+        },
+        {
+          "columnValue": "Success"
+        },
+        {
+          "columnValue": "2021-02-02 15:29:41.610307+05"
+        },
+        {
+          "columnValue": "16"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "http://localhost:8080/blueplanet-core-showcase-rest/sqlgrid/sql-get-record-count"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "Computer"
+        },
+        {
+          "columnValue": "Browser"
+        },
+        {
+          "columnValue": "Chrome"
+        },
+        {
+          "columnValue": "88.0.4324.104"
+        },
+        {
+          "columnValue": "Windows"
+        },
+        {
+          "columnValue": "Windows 10"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "#00ffff"
+        }
+      ],
+      "customProperties": {}
+    },
+    {
+      "columnsList": [
+        {
+          "customProperties": {
+            "parameterMap": {
+              "style:background-color": "#00ffff"
+            },
+            "parameterNames": [
+              "style:background-color"
+            ]
+          },
+          "columnValue": "ReST API Called"
+        },
+        {
+          "columnValue": "Success"
+        },
+        {
+          "columnValue": "2021-02-02 15:29:41.46091+05"
+        },
+        {
+          "columnValue": "48"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "http://localhost:8080/blueplanet-core-showcase-rest/sqlgrid/sql-get-filter-ds"
+        },
+        {
+          "columnValue": "0:0:0:0:0:0:0:1"
+        },
+        {
+          "columnValue": "Computer"
+        },
+        {
+          "columnValue": "Browser"
+        },
+        {
+          "columnValue": "Chrome"
+        },
+        {
+          "columnValue": "88.0.4324.104"
+        },
+        {
+          "columnValue": "Windows"
+        },
+        {
+          "columnValue": "Windows 10"
+        },
+        {},
+        {},
+        {},
+        {
+          "columnValue": "#00ffff"
+        }
+      ],
+      "customProperties": {}
+    }
+  ],
+  "maxColumnCount": 80,
+  "maxRowCount": 10000
+}
