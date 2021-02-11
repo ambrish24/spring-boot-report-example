@@ -6,7 +6,7 @@ import java.util.List;
 public class RestGridResults {
 
     private List<RestReportRow> results;
-    private ArrayList<RestReportAttribute> reportedAttributesInOrder = new ArrayList<RestReportAttribute>();
+    private List<RestReportAttribute> reportedAttributesInOrder = new ArrayList<RestReportAttribute>();
     private int maxColumnCount = 80;
     private int maxCellCount = 100000;
     private int maxRowCount = 10000;
@@ -43,7 +43,7 @@ public class RestGridResults {
         this.maxRowCount = maxRowCount;
     }
 
-    public ArrayList<RestReportAttribute> getReportedAttributesInOrder() {
+    public List<RestReportAttribute> getReportedAttributesInOrder() {
         return reportedAttributesInOrder;
     }
 
