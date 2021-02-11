@@ -1,20 +1,50 @@
 {
+  "reportName": "PDF Report",
   "reportAttributes": [
     {
-      "tableColumnWidth": 0,
-      "tableColumnName": "Operation",
-      "dateTimeFormat": null
+      "fieldName": "Column 1",
+      "fieldNameAlias": "",
+      "columnWidth": 144.0,
+      "tableColumnName": "Column 1",
+      "dateTimeFormat": "dd/MM/yyyy",
+      "filter": {
+        "filterString": "",
+        "filterTypeId": 1,
+        "allowableValues": [
+          ""
+        ]
+      },
+      "reported": true
     },
     {
-      "tableColumnWidth": 0,
-      "tableColumnName": "Sub Operation",
-      "dateTimeFormat": null
+      "fieldName": "Column 2",
+      "fieldNameAlias": "",
+      "columnWidth": 144.0,
+      "tableColumnName": "Column 2",
+      "dateTimeFormat": "dd/MM/yyyy",
+      "filter": {
+        "filterString": "",
+        "filterTypeId": 1,
+        "allowableValues": [
+          ""
+        ]
+      },
+      "reported": true
     },
     {
-      "tableColumnWidth": 0,
-      "tableColumnName": "Created Date",
-      "dateTimeFormat": null
+      "fieldName": "Column 3",
+      "fieldNameAlias": "",
+      "columnWidth": 144.0,
+      "tableColumnName": "Column 3",
+      "dateTimeFormat": "dd/MM/yyyy",
+      "filter": {
+        "filterString": "",
+        "filterTypeId": 1,
+        "allowableValues": [
+          ""
+        ]
+      },
+      "reported": true
     }
-  ],
-  "reportName": "Audit log"
+  ]
 }
