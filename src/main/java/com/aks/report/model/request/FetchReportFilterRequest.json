@@ -1,8 +1,0 @@
-{
-  "gridInfo": {
-    "gridName": "sqlGridDemo",
-    "tabName": "auditLog",
-    "pageClass": "Tab",
-    "systemDefault": false
-  }
-}
